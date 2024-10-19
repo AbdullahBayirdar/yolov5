@@ -1,0 +1,7 @@
+train: D:\PROJECT\pakistani\train
+val:   D:\PROJECT\pakistani\test
+# Classes
+
+nc: 7  # number of classes
+names: ['herb paris', 'karela', '
+small weed', 'grass', 'tori', 'horseweed', 'Bhindi']  # class names
